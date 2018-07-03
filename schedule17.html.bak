@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns="http://www.w3.org/TR/REC-html40">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Mebop : ">
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <title>Mebop</title>
+  </head>
+  <body style="         tab-interval:.5in" lang="EN-US" link="#0563C1" vlink="#954F72">
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+      <header class="inner">
+        <h1 id="project_title">MeBOP 2017</h1>
+        <h2 id="project_tagline"></h2>
+      </header>
+    </div>
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <meta name="Title" content="">
+        <meta name="Keywords" content="">
+        <meta name="ProgId" content="Excel.Sheet">
+        <meta name="Generator" content="Microsoft Excel 15">
+        <link rel="File-List" href="Workbook1.fld/filelist.xml">
+        <style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+.font5
+	{color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font6
+	{color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	color:white;
+	font-size:7.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border:1.0pt solid windowtext;
+	background:#8E2A27;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl66
+	{mso-style-parent:style0;
+	color:white;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#8E2A27;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl67
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	white-space:normal;}
+.xl68
+	{mso-style-parent:style0;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl69
+	{mso-style-parent:style0;
+	color:black;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	white-space:normal;}
+.xl70
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	white-space:normal;}
+.xl71
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl72
+	{mso-style-parent:style0;
+	color:white;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#8E2A27;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl73
+	{mso-style-parent:style0;
+	color:white;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#8E2A27;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl74
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-style:italic;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	white-space:normal;}
+.xl75
+	{mso-style-parent:style0;
+	color:black;
+	font-size:8.0pt;
+	font-style:italic;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl76
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	white-space:normal;}
+.xl77
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl78
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl79
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	white-space:normal;}
+.xl80
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	white-space:normal;}
+.xl81
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	white-space:normal;}
+.xl82
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	white-space:normal;}
+.xl83
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	white-space:normal;}
+.xl84
+	{mso-style-parent:style0;
+	color:black;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	white-space:normal;}
+.xl85
+	{mso-style-parent:style0;
+	color:black;
+	font-size:8.0pt;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	white-space:normal;}
+.xl86
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	white-space:normal;}
+.xl87
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-style:italic;
+	font-family:Cambria;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl88
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+-->
+</style> <table style="border-collapse: collapse; table-layout: fixed; width: 836px; height: 554px;"
+          border="0"
+          cellpadding="0"
+          cellspacing="0">
+          <colgroup><col style="width:65pt" span="8" width="87"> </colgroup>
+          <tbody>
+            <tr style="height:17.0pt;mso-yfti-firstrow:yes;mso-yfti-irow:0" height="23">
+              <td class="xl65" style="height: 17pt; width: 75px; margin-left: 25px; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                height="23"
+                width="87"><span
+                  style="mso-themecolor:background1">&nbsp;</span></td>
+              <td class="xl66" style="width: 75px; margin-left: -64px; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Sun
+                  23/07</span></td>
+              <td class="xl66" style="width: 75px; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Mon
+                  24/07</span></td>
+              <td class="xl66" style="width: 75px; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Tue
+                  25/07</span></td>
+              <td class="xl66" style="width: 75px; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Wed
+                  26/07</span></td>
+              <td class="xl66" style="width: 75px; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Thu
+                  27/07</span></td>
+              <td class="xl66" style="width: 75px; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Fri
+                  28/07</span></td>
+              <td class="xl66" style="width: 75px; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Sat
+                  29/07</span></td>
+            </tr>
+            <tr style="height:22.0pt;mso-yfti-irow:1" height="29">
+              <td colspan="1" rowspan="4" class="xl81" style="border-bottom:1.0pt solid black;
+  height:83.0pt;border-top:none;width:65pt" height="111" width="87"><strong><em>9
+                    – 12:30</em></strong></td>
+              <td rowspan="5" class="xl79" style="border-bottom:1.0pt solid black;
+  border-top:none;width:65pt" width="87"><span style="mso-spacerun:yes">&nbsp;</span></td>
+              <td class="xl67" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading72417.html">Charles
+                    Jaffe</a></strong></td>
+              <td class="xl67" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading72517.html">Eva
+                    Gluenz</a></strong></td>
+              <td class="xl69" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading72617.html"><span
+                      style="mso-themecolor:text1">Isabel
+                      Roditi<span style="mso-spacerun:yes"></span></span></a></strong></td>
+              <td class="xl67" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading72717.html">Poppy
+                    Lamberton</a></strong></td>
+              <td class="xl67" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading72817.html">Shulamit
+                    Michaeli<span style="mso-spacerun:yes">&nbsp;</span></a></strong></td>
+              <td class="xl67" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading72917.html">Boris
+                    Striepen</a></strong></td>
+            </tr>
+            <tr style="mso-height-source:userset;height:44.0pt" height="59">
+              <td colspan="1" rowspan="3" class="xl84" style="border-bottom: 1pt solid black; height: 61pt; width: 39px; margin-left: 47px;"
+                height="82"
+                width="87">Student
+                introductory presentations</td>
+              <td colspan="1" rowspan="3" class="xl84" style="border-bottom:1.0pt solid black;
+  width:65pt" width="87"><span style="mso-themecolor:text1">Student introductory
+                  presentations</span></td>
+              <td class="xl69" style="width:65pt" width="87">&nbsp;</td>
+              <td class="xl69" style="width:65pt" width="87">&nbsp;</td>
+              <td class="xl69" style="width:65pt" width="87">&nbsp;</td>
+              <td colspan="1" rowspan="3" class="xl84" style="border-bottom:1.0pt solid black;
+  width:65pt" width="87"><span style="mso-themecolor:text1">Student summarizing
+                  presentations from module 1<span style="mso-spacerun:yes">&nbsp;</span></span></td>
+            </tr>
+            <tr style="height:17.0pt" height="23">
+              <td class="xl88" style="height:17.0pt;width:65pt" height="23" width="87"><strong><a
+                    href="https://mebop.github.io/MeBOP17/Reading72617.html">Volker
+                    Heussler</a></strong></td>
+              <td class="xl88" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading72717.html">Jim
+                    Collins</a></strong></td>
+              <td class="xl88" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading72817.html">Barry
+                    Rooney</a></strong></td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr style="height:17.0pt;mso-yfti-irow:2" height="23">
+              <td class="xl70" style="height:17.0pt;width:65pt" height="23" width="87"><strong><em>12:30
+                    </em></strong><strong><em><strong><em>–</em></strong> 14:00</em></strong></td>
+              <td colspan="6" class="xl76" style="border-right: 1pt solid black; border-left: medium none; width: 390pt; text-align: center; vertical-align: middle; background-color: #cccccc;"
+                width="522">Lunch</td>
+            </tr>
+            <tr style="height:45.0pt;mso-yfti-irow:3" height="60">
+              <td class="xl70" style="height: 45pt; width: 175px; margin-left: -89px;"
+                height="60"
+                width="87"><strong><em>14:00
+                    </em></strong><strong><em><strong><em>–</em></strong> eve</em></strong></td>
+              <td class="xl71" style="width: 132px; margin-left: -32px;" width="87">Welcome
+                reception and course introduction</td>
+              <td colspan="5" class="xl76" style="border-right: 1pt solid black; border-left: medium none; width: 374px; text-align: center; vertical-align: middle; background-color: #66ffcc; margin-left: 58px;"
+                width="435"><strong><a
+                    href="https://mebop.github.io/MeBOP17/Module1_17.html">Module
+                    1 – Charles Jaffe + Ibrahim Abbasi</a></strong></td>
+              <td class="xl87" style="width: 178px;" width="87">Free afternoon</td>
+            </tr>
+            <tr style="height:17.0pt;mso-yfti-irow:4" height="23">
+              <td class="xl72" style="height: 17pt; width: 65pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                height="23"
+                width="87"><strong><em><span
+                      style="mso-themecolor:background1">&nbsp;</span></em></strong></td>
+              <td class="xl73" style="width: 65pt; margin-left: -31px; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Sun
+                  30/8</span></td>
+              <td class="xl73" style="width: 65pt; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Mon
+                  31/07</span></td>
+              <td class="xl73" style="width: 65pt; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Tue
+                  1/8</span></td>
+              <td class="xl73" style="width: 65pt; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Wed
+                  2/8</span></td>
+              <td class="xl73" style="width: 65pt; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Thu
+                  3/8</span></td>
+              <td class="xl73" style="width: 65pt; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Fri
+                  4/8</span></td>
+              <td class="xl73" style="width: 65pt; height: 17pt; text-align: center; vertical-align: bottom; background-color: #8e2a27;"
+                width="87"><span
+                  style="mso-themecolor:background1">Sat
+                  5/8</span></td>
+            </tr>
+            <tr style="height:22.0pt;mso-yfti-irow:5" height="29">
+              <td rowspan="4" class="xl81" style="border-bottom:1.0pt solid black;
+  height:99.0pt;border-top:none;width:65pt" height="132" width="87"><strong><em>9
+                  </em></strong><strong><em><strong><em>–</em></strong> 12:30</em></strong></td>
+              <td rowspan="4" class="xl81" style="border-bottom: 1pt solid black; border-top: medium none; width: 65pt; text-align: left; vertical-align: top; background-color: rgba(255, 255, 255, 0);"
+                width="87"><strong><a
+                    href="https://mebop.github.io/MeBOP17/Reading73017.html">David
+                    Roos</a></strong></td>
+              <td class="xl69" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading73117.html"><span
+                      style="mso-themecolor:text1">Dominique
+                      Soldati-Favre<span style="mso-spacerun:yes">&nbsp;</span></span></a></strong></td>
+              <td class="xl69" style="width:65pt" width="87"><strong><span style="mso-themecolor:text1"><a
+                      href="https://mebop.github.io/MeBOP17/Reading8117.html">Kirk
+                      Deitsch</a><br>
+                  </span></strong></td>
+              <td class="xl67" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading8217.html">Lilach
+                    Sheiner</a><span style="mso-spacerun:yes"></span></strong></td>
+              <td class="xl69" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading8317.html"><span
+                      style="mso-themecolor:text1">Karin
+                      Troell</span></a></strong></td>
+              <td class="xl67" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading8417.html">Bill
+                    Petri</a></strong></td>
+              <td rowspan="6" class="xl79" style="border-bottom:1.0pt solid black;
+  border-top:none;width:65pt" width="87">Departure</td>
+            </tr>
+            <tr style="mso-height-source:userset;height:44.0pt" height="59">
+              <td class="xl69" style="height:44.0pt;width:65pt" height="59" width="87">&nbsp;</td>
+              <td class="xl67" style="width:65pt" width="87">&nbsp;</td>
+              <td class="xl67" style="width:65pt" width="87">&nbsp;</td>
+              <td class="xl69" style="width:65pt" width="87">&nbsp;</td>
+              <td rowspan="3" class="xl84" style="border-bottom:1.0pt solid black;
+  width:65pt" width="87"><span style="mso-themecolor:text1">Students summarizing
+                  presentations<font class="font5"> from module 2</font></span></td>
+            </tr>
+            <tr style="height:16.0pt" height="21">
+              <td class="xl69" style="height:16.0pt;width:65pt" height="21" width="87"><strong><a
+                    href="https://mebop.github.io/MeBOP17/Reading73117.html">Omar
+                    Harb</a></strong></td>
+              <td class="xl86" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading8117.html">Andy
+                    Waters</a></strong></td>
+              <td class="xl86" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading8217.html">James
+                    Duffy</a></strong></td>
+              <td class="xl86" style="width:65pt" width="87"><strong><a href="https://mebop.github.io/MeBOP17/Reading8317.html">Serge
+                    Ankri</a></strong></td>
+            </tr>
+            <tr style="height:17.0pt" height="23">
+              <td class="xl68" style="height:17.0pt;width:65pt" height="23" width="87">&nbsp;</td>
+              <td class="xl68" style="width:65pt" width="87">&nbsp;</td>
+              <td class="xl68" style="width:65pt" width="87">&nbsp;</td>
+              <td class="xl68" style="width:65pt" width="87">&nbsp;</td>
+            </tr>
+            <tr style="height:17.0pt;mso-yfti-irow:6" height="23">
+              <td class="xl70" style="height:17.0pt;width:65pt" height="23" width="87"><em><strong>12:30
+                    </strong></em><em><strong><strong><em>– </em></strong>14:00</strong></em></td>
+              <td colspan="5" class="xl76" style="border-right: 1pt solid black; border-left: medium none; width: 556px; text-align: center; vertical-align: middle; background-color: #cccccc; margin-left: -35px;"
+                width="435">Lunch</td>
+              <td rowspan="2" class="xl79" style="border-bottom:1.0pt solid black;
+  border-top:none;width:65pt" width="87">Farewell Gala and Certificate
+                distribution</td>
+            </tr>
+            <tr style="height:17.0pt;mso-yfti-irow:7;mso-yfti-lastrow:yes" height="23">
+              <td class="xl70" style="height:17.0pt;width:65pt" height="23" width="87"><strong><em>14:00
+                    </em></strong><strong><em><strong><em>–</em></strong> eve</em></strong></td>
+              <td class="xl75" style="width:65pt" width="87"><span style="mso-themecolor:text1"><br>
+                  <br>
+                  Free afternoon<br>
+                  <br>
+                </span></td>
+              <td colspan="4" class="xl76" style="border-right: 1pt solid black; border-left: medium none; width: 260pt; text-align: center; vertical-align: middle; background-color: #66ffcc;"
+                width="348"><strong>Module
+                  2 – <font class="font6">Dominique Soldati-Favre + Karine
+                    Frenal</font></strong></td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+    </div>
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner"> <a href="/MeBOP17" title="Back to the Home page"><b>HOME</b></a>
+        | <a href="#" title="To the top of this page"><b>BACK TO TOP</b></a>
+        <p class="copyright">Mebop maintained by <a href="https://github.com/MeBOP">MeBOP</a></p>
+        <p> </p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+  </body>
+</html>
